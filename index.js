@@ -8,5 +8,6 @@ function upperCaseCustomerName() {
 }
 
 function overWriteBestCustomer() {
-
+  bestCustomer = 'maybe bob'
 }
+
