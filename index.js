@@ -1,8 +1,6 @@
 /* Your code goes here */
 var customerName = 'bob'
 
-var bestCustomer = 'not bob'
-
 const leastFavoriteCustomer = "could be bob"
 
 function upperCaseCustomerName() {
@@ -10,7 +8,7 @@ function upperCaseCustomerName() {
 }
 
 function setBestCustomer() {
-  var bestCustomer = 'not bob'
+  bestCustomer = 'not bob'
 }
 function overWriteBestCustomer() {
   bestCustomer = 'maybe bob'
